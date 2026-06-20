@@ -7,11 +7,11 @@
 
 ## 🚀 About Me
 
-I' am a Data Science Engineering student at ESPRIT with a background in Business Intelligence.
+I'am a Data Science Engineering student at ESPRIT with a background in Business Intelligence.
 
 I enjoy building intelligent systems using Machine Learning, Deep Learning, NLP and Large Language Models. I also have experience designing dashboards, developing AI-powered web applications and deploying end-to-end data solutions.
 
-I' am always looking for opportunities to learn new technologies and contribute to impactful projects.
+I'am always looking for opportunities to learn new technologies and contribute to impactful projects.
 
 ## 💻 Tech Stack
 
