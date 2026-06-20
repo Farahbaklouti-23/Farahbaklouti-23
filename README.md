@@ -97,14 +97,14 @@ Features
 
 Tech Stack
 
-Python
-FastAPI
-Next.js
-Flutter
-MySQL
-OpenCV
-Tesseract
-Llama 3
+•Python
+•FastAPI
+•Next.js
+•Flutter
+•MySQL
+•OpenCV
+•Tesseract
+•Llama 3
 
 ### AI Transliteration Pipeline
 
@@ -117,12 +117,12 @@ Llama 3
 
 Tech Stack
 
-Python
-LangChain
-Mistral
-RAG
-Regex
-Pandas
+•Python
+•LangChain
+•Mistral
+•RAG
+•Regex
+•Pandas
 
 ## 📫 Connect with me
 
