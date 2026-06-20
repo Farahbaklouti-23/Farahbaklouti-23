@@ -45,22 +45,22 @@ Machine Learning • Deep Learning • NLP • Scikit-Learn • Scikit-Learn •
 
 ### Database
 
-MySQL
-MongoDB
-Oracle
+•MySQL
+•MongoDB
+•Oracle
 
 ### BI
 
-Power BI
-Talend
+•Power BI
+•Talend
 
 ### DevOps
 
-Docker
-Git
-GitHub
-MLflow
-CI/CD
+•Docker
+•Git
+•GitHub
+•MLflow
+•CI/CD
 
 ## 🚀 Featured Projects
 ### Breast Cancer Detection using Explainable AI
